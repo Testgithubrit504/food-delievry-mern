@@ -5,7 +5,7 @@ This repository hosts the source code for FOODIE, a dynamic food ordering websit
 ## Demo
 
 - User Panel: [(https://lighthearted-tanuki-caf952.netlify.app/)]
-- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://earnest-squirrel-eacc8c.netlify.app/)
+- Admin Panel: [https://food-delivery-admin-wrme.onrender.com/](https://celadon-hummingbird-f9d3eb.netlify.app/)
 
 ## Features
 
